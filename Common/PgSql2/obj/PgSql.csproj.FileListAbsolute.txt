@@ -1,0 +1,5 @@
+C:\Applications\Common\PgSql2\bin\Debug\PgSql.dll
+C:\Applications\Common\PgSql2\bin\Debug\PgSql.pdb
+C:\Applications\Common\PgSql2\obj\Debug\ResolveAssemblyReference.cache
+C:\Applications\Common\PgSql2\obj\Debug\PgSql.dll
+C:\Applications\Common\PgSql2\obj\Debug\PgSql.pdb
