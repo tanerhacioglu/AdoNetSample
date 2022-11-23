@@ -13,7 +13,7 @@ namespace AdoNETSampleDAL
     {
         private string GetConnectionString()
         {
-            return "User ID=mypostgrem;Password=kumar;Host=100.1.0.18;Port=5432;Database=pre;
+            return "User ID=MYPG;Password=KUMAR;Host=10.10.0.18;Port=5432;Database=PRE";
         }
 
         #region SampleCategory

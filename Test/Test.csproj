@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PgSql">
-      <HintPath>..\Common\PgSql2\PgSql.dll</HintPath>
+      <HintPath>..\..\..\Common\PgSql2\PgSql.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
